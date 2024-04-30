@@ -1,0 +1,38 @@
+<resources>
+
+    <!--
+    <resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    </resources>
+    -->
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Analysis Results</string>
+
+    <string name="imageCrop">Image Crop</string>
+    <string name="failedCrop">Failed to Crop</string>
+
+    <string name="emptyHistory">No History Here :(</string>
+    <string name="cancerCheck">Possibility of Cancer</string>
+    <string name="cancerScore">10000000%</string>
+    <string name="history">Analysis History</string>
+    <string name="home">Home</string>
+    <string name="newsBar">Read News</string>
+    <string name="newsTittle">Tittle</string>
+    <string name="link">Read More</string>
+
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="first_fragment_label">Fragment 1</string>
+    <string name="second_fragment_label">Fragment 2</string>
+    <string name="TextSplash">Cancer Detection App</string>
+    <string name="IconSplash">Splash Icon!!!!</string>
+</resources>
